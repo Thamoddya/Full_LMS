@@ -1,0 +1,36 @@
+
+        <section id="video-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-lg-12">
+                        <h2 class="section-title" title="Video"><span>Video</span></h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-md-4 col-md-offset-0 videostyle">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <embed src="https://www.youtube.com/embed/A4ByJJ3QmnE"
+                                class="video-control embed-responsive-item" controls>
+
+                            </embed>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4 col-md-offset-0 videostyle">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <embed src="https://www.youtube.com/watch?v=-ymOL0iANqkE"
+                                class="video-control embed-responsive-item" controls>
+
+                            </embed>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-4 col-md-offset-0 videostyle">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <embed src="https://www.youtube.com/embed/A4ByJJ3QmnE"
+                                class="video-control embed-responsive-item" controls>
+
+                            </embed>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
