@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Dashboard</title>
+    <title> Admin  Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -249,7 +249,7 @@
                                                     <h5 class="card-title">TIME TABLE UPLOAD</h5>
                                                     <p class="card-text">USE THIS TO UPLOAD TIME TABLE FOR EACH KIND OF
                                                         STUDENTS.</p>
-                                                    <a href="#" class="btn btn-primary">UPLOAD HERE</a>
+                                                    <a href="../../imagetableupload/index.php" class="btn btn-primary">UPLOAD HERE</a>
                                                 </div>
                                             </div>
                                         </div>

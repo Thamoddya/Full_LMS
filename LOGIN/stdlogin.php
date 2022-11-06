@@ -535,9 +535,14 @@
      	<?php } ?>
         <div class="inputGroup inputGroup1">
             <label for="loginEmail" id="loginEmailLabel">STUDENT ID</label>
-            <input type="text" id="loginEmail" maxlength="254" name="uname" />
+            <input type="text" id="loginEmail" maxlength="254" name="stid" />
             <p class="helper helper1">YOUR STUDNET ID</p>
         </div>
+
+
+
+
+
         <div class="inputGroup inputGroup2">
             <label for="loginPassword" id="loginPasswordLabel">Password</label>
             <input type="password" id="loginPassword" placeholder="Your Password Here" name="password" />

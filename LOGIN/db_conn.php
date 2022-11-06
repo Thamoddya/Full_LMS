@@ -4,9 +4,9 @@ $sname= "localhost";
 $unmae= "root";
 $password = "200509104610Thamoddya@";
 
-$db_name = "studentregister";
+$db_name = "st";
 
-$conn = mysqli_connect("localhost","root","200509104610Thamoddya@", "studentregister");
+$conn = mysqli_connect("localhost","root","200509104610Thamoddya@", "st");
 
 if (!$conn) {
 	echo "Connection failed!";

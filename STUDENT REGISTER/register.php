@@ -70,6 +70,9 @@
                                 <div class="form-group">
                                     <input type="text" class="form-control form-control-user" id="exampleInputEmail" placeholder="mobile Number" name="mo"/>
                                 </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control form-control-user"  placeholder="Password" name="pw"/>
+                                </div>
 
                                 <div class="form-group row">
 
